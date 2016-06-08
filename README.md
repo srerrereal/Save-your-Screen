@@ -1,4 +1,4 @@
-# Save-your-Screen
+# Save your Screen
 A Web application to resize the pictures for mobile devices.
 <p>Save your Screen is a web application created by Rafael Real and Evelyn Medeiros.
 Togheter we want to help people, by giving them, the chance to have that "always dreamed" lockscreen on their phones.</p>
